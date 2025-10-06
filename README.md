@@ -16,9 +16,9 @@ Custom neural network implementation using PyTorch with activation visualization
 - **Output Layer**: Single neuron (Linear)
 
 ## Requirements
-- **torch
-- **matplotlib
-- **numpy
+- torch
+- matplotlib
+- numpy
 ## Usage
 Open and run `ai_p.ipynb` in Jupyter Notebook or Google Colab.
 
